@@ -8,19 +8,19 @@
 
 **Drive Away** [App Store](https://apps.apple.com/us/app/drive-away-3d/id1479293425)
  
-![Drive Away](https://github.com/olegkuzyk/NepixPrototypes/blob/master/2019/drive_away.png)
+![Drive Away](https://github.com/olegkuzyk/NepixPrototypes/blob/master/2019/drive_away_min.png)
 
 
 **Surf Dunk** [App Store](https://apps.apple.com/us/app/surf-dunk/id1473157153)
  
-![Surf Dunk](https://github.com/olegkuzyk/NepixPrototypes/blob/master/2019/surf_dunk.png)
+![Surf Dunk](https://github.com/olegkuzyk/NepixPrototypes/blob/master/2019/surf_dunk_min.png)
 
 
 **Punch Fury** [App Store](https://apps.apple.com/us/app/punch-fury-3d/id1469192885)
  
-![Punch Fury](https://github.com/olegkuzyk/NepixPrototypes/blob/master/2019/punch_fury.png)
+![Punch Fury](https://github.com/olegkuzyk/NepixPrototypes/blob/master/2019/punch_fury_min.png)
 
 
 **Jump Over** [App Store](https://apps.apple.com/us/app/jump-over-3d/id1466594730)
  
-![Jump Over](https://github.com/olegkuzyk/NepixPrototypes/blob/master/2019/jump_over.png)
+![Jump Over](https://github.com/olegkuzyk/NepixPrototypes/blob/master/2019/jump_over_min.png)
