@@ -8,7 +8,7 @@
 
 **Drive Away** [App Store](https://apps.apple.com/us/app/drive-away-3d/id1479293425)
  
-![Drive Away](https://github.com/olegkuzyk/NepixPrototypes/blob/master/2019/driwe_away.png)
+![Drive Away](https://github.com/olegkuzyk/NepixPrototypes/blob/master/2019/drive_away.png)
 
 
 **Surf Dunk** [App Store](https://apps.apple.com/us/app/surf-dunk/id1473157153)
